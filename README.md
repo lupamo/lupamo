@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from Kenya</h3>
 
 
-- 👀  I'm interested in Opensource Contribution, WebDevelpoment and Machine Learning/AI
+- 👀 Let's Talk about Opensource, Web & Mobile Develpoment and Machine Learning/AI
 
 - 💬 Ask me about **react, JavaScript, TypeScript and Python**
 
