@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnold Lupamo!</h1>
-<h3 align="center">A passionate Software Developer from Kenya</h3>
+<h3 align="center">A Software Developer from Kenya</h3>
 
 
 - 👀 Let's Talk about Opensource, Web & Mobile Develpoment and Machine Learning/AI
